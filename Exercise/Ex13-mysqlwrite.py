@@ -88,7 +88,7 @@ if __name__=="__main__":
 
             print(str(dbprofession))
             #insertcustomerdata(conn, int(dbcustid),str(dbfullname), int(dbage), str(dbprofession))
-        with open("C:\inceptez\pycharmworkouts\profcount.csv","a",encoding="utf-8",newline="") as csvfile:
+        with open("C:\inceptez\pycharmworkouts\profcount.csv","w",encoding="utf-8",newline="") as csvfile:
 
             profcountquery="""
             select profession as Profession,count(*) as "Profession count" from tblcustomer_jenni group by profession
