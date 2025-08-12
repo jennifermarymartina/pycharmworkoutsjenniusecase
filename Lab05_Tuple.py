@@ -39,16 +39,16 @@ print(studinfo)
 #Does not support append,insert,remove elements in the tuple
 #studinfo.append("A")
 
-num = (25,30,55,89,90)
+num = (25,30,55,89,100)
 
-print("Maximum value=",max(num))
-#Output: Maximum value: 90
+print("Maximum value= ",max(num))
+#Output: Maximum value: 100
 
-print("Minimum value=",min(num))
+print("Minimum value= ",min(num))
 
 print(f"Minimum value= {min(num)}")
 
-print(f"Sum of all values= {sum(num)}")
+print(f"Sum of all values=  {sum(num)}")
 
 n = (10,20,2,100,40)
 
