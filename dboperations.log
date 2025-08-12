@@ -1,0 +1,15 @@
+2025-08-08 10:40:24,148 - root - ERROR - Unexpected error: invalid literal for int() with base 10: 'kbnhzraf_retail'
+2025-08-08 10:41:41,942 - root - INFO - Database connection established successfully 
+2025-08-08 10:42:14,506 - root - INFO - Database connection established successfully 
+2025-08-08 10:42:14,507 - root - INFO - Fetching all databases
+2025-08-08 10:42:14,610 - root - INFO - Databases fetched successfully
+2025-08-08 10:42:28,126 - root - INFO - Database connection established successfully 
+2025-08-08 10:42:28,127 - root - INFO - Fetching all databases
+2025-08-08 10:42:28,227 - root - INFO - Databases fetched successfully
+2025-08-08 10:43:25,573 - root - INFO - Database connection established successfully 
+2025-08-08 10:43:25,573 - root - INFO - Fetching all databases
+2025-08-08 10:43:25,674 - root - INFO - Databases fetched successfully
+2025-08-08 14:41:30,046 - root - INFO - Database connection established successfully 
+2025-08-08 14:41:30,050 - root - INFO - Fetching all databases
+2025-08-08 14:41:30,104 - root - INFO - Databases fetched successfully
+2025-08-08 14:41:30,105 - root - INFO - Database connection closed

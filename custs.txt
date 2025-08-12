@@ -1,0 +1,4 @@
+'101', 'John', 'Kennedy', 45, 'Politician'
+'102', 'Michael', 'Jackson', 49, 'Singer'
+'103', 'Brian', 'Lara', 45, 'Cricketer'
+'104', 'Charlie', 'Chaplin', 45, 'Comedian'
